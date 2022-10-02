@@ -1,7 +1,9 @@
 ## Bom dia/tarde/noite! 👋
 
 • 📅 17 Anos.
+
 • 📝 No momento estou cursando desenvolvimento de sistemas na ETEC de Guaianazes (SP, São Paulo).
+
 • 👨‍💻 Front-end.
 
 <div align="center">
