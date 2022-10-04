@@ -1,10 +1,10 @@
 ## Bom dia/tarde/noite! 👋
 
-• 📅 17 Anos.
+• 💻 Front-end
 
-• 📝 No momento estou cursando desenvolvimento de sistemas na ETEC de Guaianazes (SP, São Paulo).
+• 📝 Cursando desenvolvimento de sistemas na ETEC de Guaianazes.
 
-• 👨‍💻 Front-end.
+• 👨‍💻 No momento estou estudando mais sobre React!
 
 <div>
     <a href="https://github.com/YuriOlivs">
