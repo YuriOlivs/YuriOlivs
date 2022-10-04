@@ -1,6 +1,6 @@
 ## Bom dia/tarde/noite! 👋
 
-• 💻 Front-end
+• 💻 Front-end.
 
 • 📝 Cursando desenvolvimento de sistemas na ETEC de Guaianazes.
 
