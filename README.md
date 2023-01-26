@@ -2,7 +2,7 @@
 
 • 💻 Front-end.
 
-• 📝 Cursando desenvolvimento de sistemas na ETEC de Guaianazes.
+• 📝 Cursando análise e desenvolvimento de sistemas na São Paulo Tech School - SPTECH.
 
 • 👨‍💻 No momento estou estudando mais sobre React!
 
