@@ -4,8 +4,6 @@
 
 • 📝 Cursando análise e desenvolvimento de sistemas na São Paulo Tech School - SPTECH.
 
-• 👨‍💻 No momento estou estudando mais sobre React!
-
 <div>
     <a href="https://github.com/YuriOlivs">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuriolivs&show_icons=true&theme=dark"/>
