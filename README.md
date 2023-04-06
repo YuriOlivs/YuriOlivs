@@ -2,7 +2,7 @@
 
 • 💻 Desenvolvedor Front-end.
 
-• 👨‍💻 Técnico em desenvolvimento de sistemas (ETEC de Guaianazes - Sâo Paulo, SP).
+• 👨‍💻 Técnico em desenvolvimento de sistemas (ETEC de Guaianazes - São Paulo, SP).
 
 • 📝 Cursando análise e desenvolvimento de sistemas na São Paulo Tech School - SPTECH.
 
