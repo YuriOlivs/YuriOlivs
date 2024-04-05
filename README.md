@@ -1,8 +1,8 @@
 ## Hey! What's up? 👋
 
-• 👨‍🎓 Systems development technician (ETEC de Guaianazes - São Paulo, SP).
-• 📝 Currently studying at São Paulo Tech School - SPTECH.
-• 🧑‍💻 Working as a SAP intern at PwC Brazil.
+• 👨‍🎓 Systems development technician (ETEC de Guaianazes - São Paulo, SP). <br>
+• 📝 Currently studying at São Paulo Tech School - SPTECH. <br>
+• 🧑‍💻 Working as a SAP intern at PwC Brazil. <br>
 
 <div align="center">
     <a href="https://github.com/YuriOlivs">
