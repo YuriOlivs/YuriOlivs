@@ -1,8 +1,8 @@
 ## Hey! What's up? 👋
 
+• 🎓 Graduated in Systems Analysis and Development (São Paulo Tech School - SPTECH). <br>
 • 👨‍🎓 Systems development technician (ETEC de Guaianazes - São Paulo, SP). <br>
-• 📝 Currently studying at São Paulo Tech School - SPTECH. <br>
-• 🧑‍💻 Working as a SAP intern at PwC Brazil. <br>
+• 🧑‍💻 Working as an ABAP Developer at PwC Brazil. <br>
 
 <div align="center">
     <a href="https://github.com/YuriOlivs">
