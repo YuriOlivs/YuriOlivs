@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" title="Radix UI" />
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" title="jQuery" />
 
----
+
 
 ### ⚙️ Back-end
 
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java" />
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" />
 
----
+
 
 ## 🛠️ Dev Tools / Utilitários
 
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia" title="Insomnia" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma" />
 
----
+
 
 ### 🗃️ Banco de Dados
 
@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="SQLite" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=White" alt="SQL Server" title="SQL Server" />
 
----
+
 
 ### 🔄 Controle de Versão
 
