@@ -43,6 +43,13 @@
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" />
 </div>
 
+### 📱 Mobile
+
+<div align="center">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" title="React Native" />
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" />
+    <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio" title="Android Studio" />
+</div>
 
 ### 🛠️ Dev Tools
 
