@@ -1,8 +1,8 @@
-## Hey! What's up? 👋
+## Olá, eu sou o Yuri! 👋
 
-• 🎓 Graduated in Systems Analysis and Development. <br>
-• 👨‍🎓 Systems Development technician. <br>
-• 🧑‍💻 Working as an ABAP Developer at PwC Brazil. <br>
+• 🎓 Formado no Curso Superior de Análise e desenvolvimento de Sistemas. <br>
+• 👨‍🎓 Formado em Curso Técnico de Desenvolvimento de Sistemas. <br>
+• 🧑‍💻 Atualmente Consultor ABAP na PwC Brazil, realizando desenvolvimentos, melhorias e ajustes em programas e integrações via Integration Suite. <br>
 
 <div align="center">
     <a href="https://github.com/YuriOlivs">
@@ -44,7 +44,7 @@
 </div>
 
 
-## 🛠️ Dev Tools / Utilitários
+### 🛠️ Dev Tools
 
 <div align="center">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" title="NPM" />
