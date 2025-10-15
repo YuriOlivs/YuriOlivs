@@ -5,10 +5,9 @@
 • 🧑‍💻 Atualmente Consultor ABAP na PwC Brazil, realizando desenvolvimentos, melhorias e ajustes em programas e integrações via Integration Suite. <br>
 
 <div align="center">
-    <a href="https://github.com/leOhsantos">
-        <img height="160em" src="..."/>
-        &nbsp;&nbsp;
-        <img height="160em" src="..."/>
+    <a href="https://github.com/YuriOlivs">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YuriOlivs&count_private=true&show_icons=true&title_color=ff303e&text_color=DEDEDE&icon_color=ff303e&bg_color=191919&border_radius=20&hide_border=true" style="margin-right: 10px;"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriOlivs&layout=compact&title_color=ff303e&text_color=DEDEDE&bg_color=191919&border_radius=20&langs_count=6&&hide=HTML,CSS,Hack&&hide_border=true&&hide_progress=true"  style="margin-right: 10px;"/>
     </a>
 </div>
 
